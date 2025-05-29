@@ -10,8 +10,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "nativewind": "^4.1.23",
     "react": "19.0.0",
-    "react-native": "0.79.2"
+    "react-native": "0.79.2",
+    "react-native-google-mobile-ads": "^15.3.1",
+    "react-native-reanimated": "^3.17.5",
+    "react-native-safe-area-context": "^5.4.1",
+    "tailwindcss": "^3.4.17"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
