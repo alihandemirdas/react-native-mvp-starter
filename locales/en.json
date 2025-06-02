@@ -1,0 +1,126 @@
+{
+  "app": {
+    "title": "React Native MVP Starter",
+    "subtitle": "Boilerplate with ready-to-use features"
+  },
+  "navigation": {
+    "home": "Home",
+    "chat": "Chat",
+    "profile": "Profile"
+  },
+  "onboarding": {
+    "skip": "Skip",
+    "next": "Next",
+    "get_started": "Get Started",
+    "welcome": {
+      "title": "Welcome to MVP Starter! 🚀",
+      "subtitle": "Your complete React Native boilerplate",
+      "description": "Everything you need to build amazing mobile apps faster than ever before."
+    },
+    "features": {
+      "title": "Powerful Features 💪",
+      "subtitle": "Production-ready integrations",
+      "description": "AdMob ads, Firebase Analytics, Premium paywall, Toast notifications and much more!"
+    },
+    "customization": {
+      "title": "Fully Customizable 🎨",
+      "subtitle": "Make it yours",
+      "description": "Dark/Light themes, Multi-language support, Custom components and beautiful animations."
+    },
+    "ready": {
+      "title": "Ready to Build! ⚡",
+      "subtitle": "Start coding immediately",
+      "description": "No complex setup required. Just clone, customize and ship your app to the stores!"
+    }
+  },
+  "main": {
+    "features_title": "📱 Available Features",
+    "admob": {
+      "title": "AdMob Integration",
+      "description": "Test banner and interstitial ads"
+    },
+    "analytics": {
+      "title": "Analytics Integration", 
+      "description": "Check all analytics and live users"
+    },
+    "premium": {
+      "title": "Premium Paywall",
+      "description": "Unlock all features with subscription"
+    },
+    "coming_soon": {
+      "title": "Soon!",
+      "description": "More integrations will be added here"
+    },
+    "components": {
+      "title": "🎨 Custom Components",
+      "view_all": "View All Components",
+      "description": "Button, GradientButton, GlassButton"
+    },
+    "toast": {
+      "title": "💬 Toast Messages",
+      "description": "Test different types of toast notifications",
+      "success": "Success",
+      "error": "Error", 
+      "warning": "Warning",
+      "info": "Info"
+    },
+    "language": {
+      "title": "Multi Language Support",
+      "description": "Change app language",
+      "current": "Current"
+    },
+    "theme": {
+      "title": "Dark/Light Mode",
+      "description": "Switch between dark and light themes",
+      "current": "Current"
+    },
+    "onboarding": {
+      "title": "Onboarding Screens",
+      "description": "View onboarding screens again"
+    }
+  },
+  "toast_messages": {
+    "admob_success": {
+      "title": "AdMob Test",
+      "message": "Analytics event logged successfully!"
+    },
+    "admob_error": {
+      "title": "Analytics Error",
+      "message": "Failed to log AdMob event"
+    },
+    "analytics_success": {
+      "title": "Analytics Test", 
+      "message": "Analytics are working perfectly!"
+    },
+    "analytics_error": {
+      "title": "Analytics Failed",
+      "message": "Could not log analytics event"
+    },
+    "paywall_opening": {
+      "title": "Opening Paywall",
+      "message": "Redirecting to premium subscription..."
+    },
+    "paywall_warning": {
+      "title": "Navigation Warning",
+      "message": "Could not track premium button press"
+    },
+    "language_changed": {
+      "title": "Language Changed",
+      "message": "App language has been updated"
+    },
+    "theme_changed": {
+      "title": "Theme Changed",
+      "message": "App theme has been updated"
+    },
+    "onboarding_reset": {
+      "title": "Onboarding Reset",
+      "message": "Onboarding screens have been reset"
+    },
+    "demo": {
+      "success": "This is a success message",
+      "error": "Something went wrong", 
+      "warning": "Please check your input",
+      "info": "Here is some useful information"
+    }
+  }
+} 

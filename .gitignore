@@ -35,6 +35,56 @@ local.properties
 !debug.keystore
 .kotlin/
 
+# Firebase Configuration Files
+# These files contain sensitive API keys and should not be committed
+ios/GoogleService-Info.plist
+ios/start/GoogleService-Info.plist
+android/app/google-services.json
+
+# Environment Variables & Sensitive Config
+# Contains sensitive API keys, secrets, and configuration
+.env
+.env.local
+.env.*.local
+ios/.xcode.env.local
+
+# AdMob & Monetization
+# Real AdMob IDs should not be committed
+android/app/src/main/res/values/ads.xml
+
+# API Keys & Authentication
+# Any files containing API keys or authentication secrets
+auth/credentials.json
+services/api-config.ts
+
+# Build artifacts
+ios/build/
+android/app/build/
+android/build/
+*.dSYM.zip
+*.ipa
+*.apk
+*.aab
+
+# Certificates & Signing
+# iOS certificates and provisioning profiles
+ios/*.mobileprovision
+ios/*.p12
+ios/*.cer
+ios/certificates/
+ios/profiles/
+
+# Android signing
+android/app/*.jks
+android/app/*.keystore
+android/key.properties
+!android/app/debug.keystore
+
+# Crashlytics
+ios/fabric.properties
+ios/GoogleService-Info.plist
+android/app/fabric.properties
+
 # node.js
 #
 node_modules/

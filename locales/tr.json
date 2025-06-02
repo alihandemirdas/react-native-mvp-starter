@@ -1,0 +1,126 @@
+{
+  "app": {
+    "title": "React Native MVP Starter",
+    "subtitle": "Kullanıma hazır özelliklerle template projesi"
+  },
+  "navigation": {
+    "home": "Ana Sayfa", 
+    "chat": "Sohbet",
+    "profile": "Profil"
+  },
+  "onboarding": {
+    "skip": "Geç",
+    "next": "İleri",
+    "get_started": "Başlayalım",
+    "welcome": {
+      "title": "MVP Starter'a Hoş Geldin! 🚀",
+      "subtitle": "Kapsamlı React Native template'in",
+      "description": "Muhteşem mobil uygulamalar geliştirmek için ihtiyacın olan her şey, her zamankinden daha hızlı."
+    },
+    "features": {
+      "title": "Güçlü Özellikler 💪",
+      "subtitle": "Üretime hazır entegrasyonlar",
+      "description": "AdMob reklamları, Firebase Analytics, Premium paywall, Toast bildirimleri ve çok daha fazlası!"
+    },
+    "customization": {
+      "title": "Tamamen Özelleştirilebilir 🎨",
+      "subtitle": "Kendine göre uyarla",
+      "description": "Karanlık/Aydınlık temalar, Çoklu dil desteği, Özel bileşenler ve güzel animasyonlar."
+    },
+    "ready": {
+      "title": "Geliştirmeye Hazır! ⚡",
+      "subtitle": "Hemen kodlamaya başla",
+      "description": "Karmaşık kurulum gerektirmez. Sadece klonla, özelleştir ve uygulamanı mağazalarda yayınla!"
+    }
+  },
+  "main": {
+    "features_title": "📱 Mevcut Özellikler",
+    "admob": {
+      "title": "AdMob Entegrasyonu", 
+      "description": "Banner ve tam ekran reklamları test et"
+    },
+    "analytics": {
+      "title": "Analytics Entegrasyonu",
+      "description": "Tüm analytics ve canlı kullanıcıları kontrol et" 
+    },
+    "premium": {
+      "title": "Premium Paywall",
+      "description": "Abonelik ile tüm özellikleri aç"
+    },
+    "coming_soon": {
+      "title": "Yakında!",
+      "description": "Daha fazla entegrasyon buraya eklenecek"
+    },
+    "components": {
+      "title": "🎨 Özel Bileşenler",
+      "view_all": "Tüm Bileşenleri Gör",
+      "description": "Button, GradientButton, GlassButton"
+    },
+    "toast": {
+      "title": "💬 Toast Mesajları",
+      "description": "Farklı toast bildirim türlerini test et",
+      "success": "Başarılı",
+      "error": "Hata",
+      "warning": "Uyarı", 
+      "info": "Bilgi"
+    },
+    "language": {
+      "title": "Çoklu Dil Desteği",
+      "description": "Uygulama dilini değiştir",
+      "current": "Mevcut"
+    },
+    "theme": {
+      "title": "Dark/Light Mod",
+      "description": "Karanlık ve aydınlık temalar arasında geçiş yap",
+      "current": "Mevcut"
+    },
+    "onboarding": {
+      "title": "Onboarding Ekranları",
+      "description": "Onboarding ekranlarını tekrar gör"
+    }
+  },
+  "toast_messages": {
+    "admob_success": {
+      "title": "AdMob Test",
+      "message": "Analytics etkinliği başarıyla kaydedildi!"
+    },
+    "admob_error": {
+      "title": "Analytics Hatası",
+      "message": "AdMob etkinliği kaydedilemedi"
+    },
+    "analytics_success": {
+      "title": "Analytics Test",
+      "message": "Analytics mükemmel çalışıyor!"
+    },
+    "analytics_error": {
+      "title": "Analytics Başarısız",
+      "message": "Analytics etkinliği kaydedilemedi"
+    },
+    "paywall_opening": {
+      "title": "Paywall Açılıyor",
+      "message": "Premium aboneliğe yönlendiriliyor..."
+    },
+    "paywall_warning": {
+      "title": "Navigasyon Uyarısı", 
+      "message": "Premium buton tıklanması takip edilemedi"
+    },
+    "language_changed": {
+      "title": "Dil Değiştirildi",
+      "message": "Uygulama dili güncellendi"
+    },
+    "theme_changed": {
+      "title": "Tema Değiştirildi",
+      "message": "Uygulama teması güncellendi"
+    },
+    "onboarding_reset": {
+      "title": "Onboarding Sıfırlandı",
+      "message": "Onboarding ekranları sıfırlandı"
+    },
+    "demo": {
+      "success": "Bu bir başarı mesajıdır",
+      "error": "Bir şeyler yanlış gitti",
+      "warning": "Lütfen girdinizi kontrol edin",
+      "info": "İşte faydalı bilgiler"
+    }
+  }
+} 

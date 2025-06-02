@@ -14,8 +14,12 @@ if linkage != nil
   use_frameworks! :linkage => linkage.to_sym
 end
 
+use_frameworks! :linkage => :static
+
 target 'start' do
   config = use_native_modules!
+
+  # use_modular_headers!
 
   use_react_native!(
     :path => config[:reactNativePath],
