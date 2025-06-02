@@ -392,8 +392,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For support and questions:
 - Create an issue on GitHub
-- Email: your-email@example.com
-- LinkedIn: [Your LinkedIn Profile]
+- Email: ben@alihandemirdas.com.tr
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/alihandemirdas/)
 
 ---
 
